@@ -1,0 +1,8 @@
+
+{
+  "name": "Staff Quarters Management System",
+  "description": "A comprehensive digital solution for managing staff quarters, allocation requests, and tracking occupancy with bilingual support (English and Gujarati).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
